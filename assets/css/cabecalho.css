@@ -1,0 +1,22 @@
+.cabecalho {
+    text-align: center;  
+    padding: 3em 0em;  
+}
+
+.cabecalho__sessao {
+    color: var(--vermelho);
+    margin-bottom: 2em;
+    font-weight: 600;
+}
+
+.cabecalho__titulo {
+    font-size: 48px;
+    margin-bottom: 1.5em;
+    font-weight: 600;
+}
+
+.cabecalho__texto {
+    color: var(--cinza-claro);
+    font-size: 20px;
+    padding: 0 8em;
+}
