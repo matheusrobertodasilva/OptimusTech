@@ -1,5 +1,6 @@
 @import url(./assets/css/barra-navegacao.css);
 @import url(./assets/css/cabecalho.css);
+@import url(./assets/css/metrica.css);
 
 /*Variaveis*/
 :root {
@@ -8,6 +9,7 @@
     --cinza-claro: #667085;
     --cinza-escuro: #3A404E;
     --vermelho: #8E2424;
+    --preto-padrao: #000000;
 }
 
 body {

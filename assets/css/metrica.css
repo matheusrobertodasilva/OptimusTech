@@ -1,0 +1,31 @@
+.metricas-container {
+    margin: 2em 2em;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.metrica__item {
+   margin-left: 1em;
+   
+}
+
+.metrica__titulo {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 0.2em;
+}
+
+.metrica__subtitulo{
+    color: var(--preto-padrao);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metrica__texto{
+    color: var(--cinza-claro);
+    margin-top: 0.5em;
+}
