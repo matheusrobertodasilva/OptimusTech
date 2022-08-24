@@ -1,0 +1,30 @@
+.procurando-talentos{
+    text-align: center;
+    align-items: center;
+}
+
+.talentos__subtitulo{
+    background-color: var(--branco-gelo);
+    border-radius: 1em ;
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0.3em 0.3em;
+}
+
+.talentos__titulo{
+    font-size: 36px;
+    font-weight: 600;
+    margin: .5em;
+}
+
+.talentos__texto{
+    color: var(--cinza-claro);
+    font-size: 20px;
+}
+
+.talentos__imagem{
+    padding: 5em 3em;
+}
+
+/*Vagas abertas*/

@@ -16,16 +16,15 @@
     color: var(--vermelho);
     font-size: 60px;
     font-weight: 600;
-    margin-bottom: 0.2em;
 }
 
 .metrica__subtitulo{
     color: var(--preto-padrao);
     font-size: 18px;
     font-weight: 500;
+    margin: 0.3em 0;
 }
 
 .metrica__texto{
     color: var(--cinza-claro);
-    margin-top: 0.5em;
 }
