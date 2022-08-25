@@ -3,16 +3,20 @@
 @import url(./assets/css/metrica.css);
 @import url(./assets/css/talentos.css);
 @import url(./assets/css/vagas.css);
+@import url(./assets/css/depoimentos.css);
+@import url(./assets/css/rodape.css);
 
 /*Variaveis*/
 :root {
-    --fonte-padrao: "Inter";
     --branco-padrao: #ffffff;
+    --branco-cinza: #F9FAFB;
+    --branco-gelo: #E5E5E5;
     --cinza-claro: #667085;
     --cinza-escuro: #3A404E;
-    --vermelho: #8E2424;
+    --fonte-padrao: "Inter";
     --preto-padrao: #000000;
-    --branco-gelo: #E5E5E5;
+    --vermelho: #8E2424;
+    --vermelho-claro: rgba(196, 25, 25, 0.03);
 }
 
 body {
@@ -21,5 +25,7 @@ body {
     font-family: "Inter";
     font-size: 16px;
     font-weight: 400;
+    width: auto;
+    height: auto;
 }
 

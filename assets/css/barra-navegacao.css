@@ -1,7 +1,8 @@
 .barra-navegacao {
+    background-color: var(--branco-cinza);
+    align-items: center;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 2em 3em;
 }
 
